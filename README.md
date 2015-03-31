@@ -1,6 +1,8 @@
 # Hadoop-Learning
 Streaming version &amp; Jar version
 
+solve three's company
+
 1>. delete folder:
 
 bin/hadoop dfs -rm -r /hadoop/friends-output
